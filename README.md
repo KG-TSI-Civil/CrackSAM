@@ -1,2 +1,2 @@
 # CrackSAM
-Fine-tune Segment Anything for crack segmentation
+Fine-tuning Segment Anything for crack segmentation
