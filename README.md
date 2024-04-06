@@ -10,6 +10,7 @@ https://github.com/khanhha/crack_segmentation
 &nbsp;
 
 <h3>Relabelled CrackTree200:</h3>
+https://drive.google.com/file/d/1dOOoAGQFsOr3myZJF7v0Onjmj-g33J_9/view?usp=drive_link
 &nbsp;
 
 
