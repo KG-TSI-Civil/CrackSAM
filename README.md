@@ -7,11 +7,10 @@ https://github.com/facebookresearch/segment-anything
 
 <h2> Data set:</h2>
 
-<h3> Khanhha Dataset: </h3>
-A collection of large crack dataset https://github.com/khanhha/crack_segmentation
+<h3> Dataset for fine-tuning: </h3>
+A collection of large crack dataset, Khanhha dataset: https://github.com/khanhha/crack_segmentation
 
-Other options:  
-https://github.com/Dhananjay42/crackseg9k
+Other options, Crackseg9k: https://github.com/Dhananjay42/crackseg9k
 
 &nbsp;
 
