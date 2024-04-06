@@ -5,8 +5,11 @@ https://github.com/facebookresearch/segment-anything
 
 &nbsp;
 
+<h2> Data set:</h2>
+
 <h3> Khanhha Dataset: </h3>
-https://github.com/khanhha/crack_segmentation
+A collection of large crack datahttps://github.com/khanhha/crack_segmentation
+
 
 &nbsp;
 
