@@ -3,8 +3,9 @@ https://github.com/open-mmlab/mmsegmentation
 
 &nbsp;
 
-<h2> About Knowledge Distillation: </h2>:
+<h2> About Knowledge Distillation: </h2>
 https://github.com/irfanICMLL/TorchDistiller
+
 https://github.com/ChaoningZhang/MobileSAM
 &nbsp;
 
