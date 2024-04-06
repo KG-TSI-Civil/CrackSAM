@@ -2,6 +2,13 @@
 https://github.com/open-mmlab/mmsegmentation
 
 &nbsp;
+<h4> DeepLabV3p_ResNet-50: </h4>
+
+<h4> DeepLabV3p_ResNet-101: </h4>
+
+<h4> SwinUperNet-tiny: </h4>
+
+
 
 <h2> About Knowledge Distillation: </h2>
 https://github.com/irfanICMLL/TorchDistiller
