@@ -1,5 +1,6 @@
 # CrackSAM
 <h3>Fine-tuning Segment Anything for crack segmentation</h3>
+Download pretrained SAM weights (ViT-B, ViT-L, ViT-H) from here:
 https://github.com/facebookresearch/segment-anything
 
 &nbsp;
