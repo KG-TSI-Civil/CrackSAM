@@ -5,7 +5,7 @@ https://github.com/facebookresearch/segment-anything
 
 &nbsp;
 
-<h2> Data set:</h2>
+<h2> Dataset:</h2>
 
 <h3> Dataset for fine-tuning: </h3>
 A collection of large crack dataset, Khanhha dataset: https://github.com/khanhha/crack_segmentation
