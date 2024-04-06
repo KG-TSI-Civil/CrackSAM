@@ -1,5 +1,5 @@
 # CrackSAM
-<h4>Fine-tuning Segment Anything for crack segmentation</h4>
+<h3>Fine-tuning Segment Anything for crack segmentation</h3>
 
 &nbsp;
 
