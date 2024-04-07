@@ -4,9 +4,15 @@ https://github.com/open-mmlab/mmsegmentation
 &nbsp;
 <h4> DeepLabV3p_ResNet-50: </h4>
 
+https://drive.google.com/file/d/1xg3B2xeyL3JqdWwrosdsayCASNWS3ok3/view?usp=sharing
+
 <h4> DeepLabV3p_ResNet-101: </h4>
 
+https://drive.google.com/file/d/1rqY4-NWAJbk0azkm6ecnlhNL2jnRYyBn/view?usp=sharing
+
 <h4> SwinUperNet-tiny: </h4>
+
+https://drive.google.com/file/d/1zqFZygXPSn7Pv_KZDXYuxDXfpOPN4Uuj/view?usp=sharing
 
 
 
