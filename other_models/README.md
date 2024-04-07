@@ -26,7 +26,19 @@ https://drive.google.com/file/d/13vWAUzzd014nkjrDDE13ng1wLbKSBFnd/view?usp=shari
 
 https://drive.google.com/file/d/1eO6gLhRgVF-U7DWNyKMo73k30DBYe617/view?usp=sharing
 
+<h4> HRNet_FCN: </h4>
 
+https://drive.google.com/file/d/1cizlUnyeMbDSIqu8Kl5VH4TsoVrjPCgC/view?usp=sharing
+
+<h4> UNet_PSPNet: </h4>
+
+https://drive.google.com/file/d/1AOzeJ_F9sgzOQC1GTWsJnrIKfKSC57IR/view?usp=sharing
+
+<h4> UNet_FCN: </h4>
+
+https://drive.google.com/file/d/1glwMbUP-5IBw9GCy9b_9gvJzTwDpbEbM/view?usp=sharing
+
+<h4> VGG_UNet: </h4>
 
 &nbsp;
 
