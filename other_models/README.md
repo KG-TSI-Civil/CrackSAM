@@ -10,7 +10,11 @@ https://drive.google.com/file/d/1xg3B2xeyL3JqdWwrosdsayCASNWS3ok3/view?usp=shari
 
 https://drive.google.com/file/d/1rqY4-NWAJbk0azkm6ecnlhNL2jnRYyBn/view?usp=sharing
 
-<h4> SwinUperNet-tiny: </h4>
+<h4> ResNet_PSPNet: </h4>
+
+https://drive.google.com/file/d/1E0lDWBmXk98QT5dGx8-TdFyEPDZEvIfZ/view?usp=sharing
+
+<h4> SwinUperNet-Tiny: </h4>
 
 https://drive.google.com/file/d/1zqFZygXPSn7Pv_KZDXYuxDXfpOPN4Uuj/view?usp=sharing
 
@@ -38,7 +42,13 @@ https://drive.google.com/file/d/1AOzeJ_F9sgzOQC1GTWsJnrIKfKSC57IR/view?usp=shari
 
 https://drive.google.com/file/d/1glwMbUP-5IBw9GCy9b_9gvJzTwDpbEbM/view?usp=sharing
 
+<h4> MobileNetV3: </h4>
+
+https://drive.google.com/file/d/1gJ1NDAQeLn8l6NcSaO_o_f1UNOYHJsaZ/view?usp=sharing
+
 <h4> VGG_UNet: </h4>
+
+https://github.com/khanhha/crack_segmentation/blob/master/unet/unet_transfer.py
 
 &nbsp;
 
