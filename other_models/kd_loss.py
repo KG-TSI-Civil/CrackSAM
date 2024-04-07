@@ -2,7 +2,7 @@ import torch.nn as nn
 import torch.nn.functional as F
 
 
-def calc_loss(outputs, label, ce_loss, dice_loss, dice_weight:float=0.8):
+def calc_hard_loss(outputs, label, ce_loss, dice_loss, dice_weight:float=0.8):
     #print(label_batch.shape) # bs, 112,112
     loss_ce = ce_loss(outputs, label[:].long())  
     loss_dice = dice_loss(outputs, label, softmax=True)
