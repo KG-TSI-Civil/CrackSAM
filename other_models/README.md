@@ -14,7 +14,21 @@ https://drive.google.com/file/d/1rqY4-NWAJbk0azkm6ecnlhNL2jnRYyBn/view?usp=shari
 
 https://drive.google.com/file/d/1zqFZygXPSn7Pv_KZDXYuxDXfpOPN4Uuj/view?usp=sharing
 
+<h4> SwinUperNet-Base: </h4>
 
+https://drive.google.com/file/d/1UjiYAv6-9Yj9yr1x9-xUhQxwQ8Clo0wJ/view?usp=drive_link
+
+<h4> SegFormer-MitB5: </h4>
+
+https://drive.google.com/file/d/13vWAUzzd014nkjrDDE13ng1wLbKSBFnd/view?usp=sharing
+
+<h4> ViT-Base: </h4>
+
+https://drive.google.com/file/d/1eO6gLhRgVF-U7DWNyKMo73k30DBYe617/view?usp=sharing
+
+
+
+&nbsp;
 
 <h2> About Knowledge Distillation: </h2>
 https://github.com/irfanICMLL/TorchDistiller
