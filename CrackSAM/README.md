@@ -3,7 +3,8 @@
 https://github.com/hitachinsk/SAMed
 
 
-
+<h3>Download pretrained SAM weights (ViT-B, ViT-L, ViT-H) from here:</h3> 
+https://github.com/facebookresearch/segment-anything
 
 <h3>Train:</h3>
 
