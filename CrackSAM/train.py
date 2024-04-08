@@ -146,6 +146,3 @@ if __name__ == "__main__":
 
     trainer = {'khanhha': trainer_khanhha}
     trainer[dataset_name](args, net, snapshot_path, multimask_output, low_res)
-
-
-

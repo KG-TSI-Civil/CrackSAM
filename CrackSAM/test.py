@@ -141,3 +141,4 @@ if __name__ == '__main__':
     else:
         test_save_path = None
     inference(args, multimask_output, dataset_config[dataset_name], net, test_save_path)
+
