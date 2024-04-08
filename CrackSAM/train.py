@@ -111,13 +111,13 @@ if __name__ == "__main__":
                                                                 pixel_std=[1, 1, 1])
 
     if args.delta_type == 'adapter':
-        pkg = import_module('sam_adapter_image_encoder')
+        pkg = import_module('delta.sam_adapter_image_encoder')
         net = pkg.Adapter_Sam(sam, args.middle_dim, args.scaling_factor).cuda()
     elif args.delta_type == 'lora':
-        pkg = import_module('sam_lora_image_encoder') 
+        pkg = import_module('delta.sam_lora_image_encoder') 
         net = pkg.LoRA_Sam(sam, args.rank).cuda()
     else:
-        pkg = import_module('sam_adapter_lora_image_encoder') 
+        pkg = import_module('delta.sam_adapter_lora_image_encoder') 
         net = pkg.LoRA_Adapter_Sam(sam, args.middle_dim, args.rank).cuda()    
 
     if args.delta_ckpt is not None:
