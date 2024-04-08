@@ -2,9 +2,7 @@
 
 https://github.com/hitachinsk/SAMed
 
-
 <h3>1. Download pretrained SAM weights (ViT-B, ViT-L, ViT-H) from https://github.com/facebookresearch/segment-anything and put it in the "checkpoints" folder</h3> 
-
 
 <h3>2. Train:</h3>
 
