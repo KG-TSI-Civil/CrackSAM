@@ -1,4 +1,4 @@
-<h3>Code is revised from SAMed:</h3>
+<h3>Code is developed from SAMed:</h3>
 
 https://github.com/hitachinsk/SAMed
 
