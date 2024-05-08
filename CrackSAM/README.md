@@ -1,6 +1,5 @@
-<h3>Code is developed from SAMed:</h3>
+<h3>Code is developed from SAMed: https://github.com/hitachinsk/SAMed</h3>
 
-https://github.com/hitachinsk/SAMed
 
 <h3>1. Download pretrained SAM weights (ViT-B, ViT-L, ViT-H) from https://github.com/facebookresearch/segment-anything and put it in the "checkpoints" folder</h3> 
 
