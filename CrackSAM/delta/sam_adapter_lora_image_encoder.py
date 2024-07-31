@@ -152,7 +152,7 @@ class LoRA_Adapter_Sam(nn.Module):
             self.w_Bs.append(w_b_linear_q)
             self.w_As.append(w_a_linear_v)
             self.w_Bs.append(w_b_linear_v)
-            blk.attn.qkv = _LoRA_qkv(
+            blk.attn.attn.qkv = _LoRA_qkv(
                 w_qkv_linear,
                 w_a_linear_q,
                 w_b_linear_q,
