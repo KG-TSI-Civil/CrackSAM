@@ -10,7 +10,7 @@ safetensors==0.3.1
 scipy==1.10.1
 SimpleITK==2.2.1
 tensorboardX==2.6
-tqdm==4.65.0
+tqdm==4.66.3
 ml-collections==0.1.1
 ipykernel==6.25.2
 matplotlib==3.8.0
